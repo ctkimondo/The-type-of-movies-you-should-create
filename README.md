@@ -1,5 +1,4 @@
-# Project Title
-The Types of Films You Should Create
+# The Types of Films You Should Create
 
 # Project Overview
 Large media companies are investing heavily in original content. A company planning to launch a new movie studio wants to understand what types of films perform best before committing capital.
